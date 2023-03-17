@@ -8,3 +8,4 @@ steps:
   commands:
   - echo "is it running"
     echo "Yes ! Its running"
+    sleep 6000
